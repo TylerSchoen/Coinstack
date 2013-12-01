@@ -1,16 +1,2 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Litecoin.aspx.cs" Inherits="Litecoin" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Litecoin.aspx.cs" Inherits="Litecoin" %>
 
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
-    <div>
-    
-    </div>
-    </form>
-</body>
-</html>
