@@ -38,14 +38,14 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="#Bitcoin" class="currency">
+                                <a href="#Bitcoin.aspx" class="currency">
                                     <img src="Content/Images/bitcoin.png" class="nav_icon" />
                                     Bitcoin
                                     <span class="glyphicon glyphicon-ok pull-right"></span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#Litecoin" class="currency">
+                                <a href="#Litecoin.aspx" class="currency">
                                     <img src="Content/Images/litecoin.png" class="nav_icon" />
                                     Litecoin
                                     <span class=""></span>
