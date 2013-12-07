@@ -8,8 +8,6 @@ namespace Btce
 {
     /// <summary>
     /// Summary description for Ticker
-    /// API Key: SF45AFOL-DTUFFSBZ-JZUIRPWD-RNWP5UNA-NAE9AL7T
-    /// API Secret: dbfb93573e1bab57ea37f5fd733574075450c7ac0ac22611876fb0159868ab8f
     /// </summary>
     public class Ticker
     {
